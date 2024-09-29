@@ -30,7 +30,7 @@ Skilled front-end developer with expertise in modern JavaScript frameworks like 
 
 ![Tailwind CSS](./icons//tailwind.svg)
 ![Bootstrap](./icons//bootstrap.svg)
-![Styled Components](./icons//styled-components.svg)
+![Styled Components](./icons//styledcomponents.svg)
 ![Sass](./icons//sass.svg)
 
 ### 🔹 Build Tools & Linters
@@ -49,4 +49,4 @@ Skilled front-end developer with expertise in modern JavaScript frameworks like 
 ## 📫 How to reach me:
 
 [![Gmail](/icons//gmail.svg)](mailto:ahmesobhy20012023b@gmail.com)
-[![LinkedIn](./icons//gmail.svg)](https://www.linkedin.com/in/ahmedsobhy49/)
+[![LinkedIn](./icons//linkedin.svg)](https://www.linkedin.com/in/ahmedsobhy49/)
